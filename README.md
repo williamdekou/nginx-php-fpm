@@ -1,3 +1,5 @@
+Addapt to work with angular 5 application 
+
 ![docker hub](https://img.shields.io/docker/pulls/richarvey/nginx-php-fpm.svg?style=flat-square)
 ![docker hub](https://img.shields.io/docker/stars/richarvey/nginx-php-fpm.svg?style=flat-square)
 
